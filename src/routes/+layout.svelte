@@ -6,7 +6,7 @@
 	<title>Thank You</title>
 </svelte:head>
 
-<div class="bg-[url('SPL_BG.png')] bg-cover bg-fixed min-h-full min-w-full ">
+<div class="bg-[url('SPL_BG.webp')] bg-cover bg-fixed min-h-full min-w-full ">
 	<div class="container mx-auto">
 		<header class="pb-8">
 			<img
