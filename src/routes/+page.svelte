@@ -51,7 +51,7 @@
 </section>
 <section class="pb-8">
 	<img
-		src="FinalImage.webp"
+		src="./FinalImage.webp"
 		alt="Chrissy with daughters"
 		class="max-w-[65%] md:max-w-[35%] mx-auto pt-8"
 	/>
