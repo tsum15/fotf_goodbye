@@ -1,5 +1,6 @@
 <script>
 	import '../app.postcss';
+	import { base } from '$app/paths';
 </script>
 
 <svelte:head>
@@ -10,7 +11,7 @@
 	<div class="container mx-auto">
 		<header class="pb-8">
 			<img
-				src="./SPL_stacked_no_bg.webp"
+				src="{base}/SPL_stacked_no_bg.webp"
 				alt="Stay and Play Local logo"
 				class="max-w-[85%] md:max-w-[55%] mx-auto pt-8"
 			/>
