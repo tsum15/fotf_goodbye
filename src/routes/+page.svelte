@@ -44,8 +44,10 @@
 			class="text-cyan-600"
 			href="https://www.instagram.com/chrissysomers/"
 			alt="Chrissy Somers Instagram">@ChrissySomers</a
-		>. Until then, friends, sending hugs and endless gratitude straight from me to you. P.S. This is
-		what the beginning of one chapter and the start of the next looks like 🖤
+		>. Until then, friends, sending hugs and endless gratitude straight from me to you.
+	</p>
+	<p class="text-md md:text-lg font-medium text-gray-500 pb-2">
+		P.S. This is what the beginning of one chapter and the start of the next looks like 🖤
 	</p>
 	<p class="text-md md:text-lg font-medium text-gray-500 pb-2">-xoxo-Chrissy</p>
 </section>
