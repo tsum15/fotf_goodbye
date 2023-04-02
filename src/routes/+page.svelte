@@ -1,7 +1,3 @@
-<script>
-	import { base } from '$app/paths';
-</script>
-
 <section class="mx-auto max-w-[70%]">
 	<p class="text-lg font-medium text-gray-500 pb-2">
 		“Should an emergency situation occur, you need to put your own oxygen mask on first before
@@ -55,7 +51,7 @@
 </section>
 <section class="pb-8">
 	<img
-		src="{base}/FinalImage.webp"
+		src="FinalImage.webp"
 		alt="Chrissy with daughters"
 		class="max-w-[65%] md:max-w-[35%] mx-auto shadow-xl"
 	/>
