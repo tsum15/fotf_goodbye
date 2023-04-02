@@ -53,6 +53,6 @@
 	<img
 		src="FinalImage.webp"
 		alt="Chrissy with daughters"
-		class="max-w-[65%] md:max-w-[35%] mx-auto shadow-xl"
+		class="max-w-[75%] md:max-w-[35%] mx-auto shadow-xl"
 	/>
 </section>
