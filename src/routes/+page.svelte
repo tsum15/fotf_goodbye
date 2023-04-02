@@ -47,12 +47,12 @@
 		>. Until then, friends, sending hugs and endless gratitude straight from me to you. P.S. This is
 		what the beginning of one chapter and the start of the next looks like 🖤
 	</p>
-	<p class="text-lg font-medium text-gray-500">-xoxo-Chrissy</p>
+	<p class="text-lg font-medium text-gray-500 pb-2">-xoxo-Chrissy</p>
 </section>
 <section class="pb-8">
 	<img
 		src="./FinalImage.webp"
 		alt="Chrissy with daughters"
-		class="max-w-[65%] md:max-w-[35%] mx-auto pt-8"
+		class="max-w-[65%] md:max-w-[35%] mx-auto shadow-xl"
 	/>
 </section>
